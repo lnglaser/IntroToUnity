@@ -354,6 +354,7 @@
 -analyzer:"G:/Unity/Unity Editor/2022.3.45f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/ChallengeScript1.cs"
 "Assets/ConditionalScript.cs"
+"Assets/ElseIfScript.cs"
 "Assets/MyFirstScript.cs"
 "Assets/OperatorScript.cs"
 -langversion:9.0
