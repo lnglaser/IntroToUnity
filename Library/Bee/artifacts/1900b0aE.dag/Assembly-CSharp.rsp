@@ -355,6 +355,7 @@
 "Assets/ChallengeScript1.cs"
 "Assets/ConditionalScript.cs"
 "Assets/ElseIfScript.cs"
+"Assets/FunctionTestScript.cs"
 "Assets/MyFirstScript.cs"
 "Assets/OperatorScript.cs"
 -langversion:9.0
