@@ -358,6 +358,7 @@
 "Assets/FunctionTestScript.cs"
 "Assets/MyFirstScript.cs"
 "Assets/OperatorScript.cs"
+"Assets/VectorScript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
